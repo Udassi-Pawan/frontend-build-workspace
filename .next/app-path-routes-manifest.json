@@ -1,0 +1,12 @@
+{
+  "/page": "/",
+  "/icon.ico/route": "/icon.ico",
+  "/create/page": "/create",
+  "/test/page": "/test",
+  "/login/page": "/login",
+  "/~offline/page": "/~offline",
+  "/collab/[docId]/page": "/collab/[docId]",
+  "/group/[groupId]/page": "/group/[groupId]",
+  "/video/[groupId]/page": "/video/[groupId]",
+  "/api/auth/[...nextauth]/route": "/api/auth/[...nextauth]"
+}

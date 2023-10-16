@@ -1,0 +1,12 @@
+{
+  "/page": "app/page.js",
+  "/icon.ico/route": "app/icon.ico/route.js",
+  "/create/page": "app/create/page.js",
+  "/test/page": "app/test/page.js",
+  "/login/page": "app/login/page.js",
+  "/~offline/page": "app/~offline/page.js",
+  "/collab/[docId]/page": "app/collab/[docId]/page.js",
+  "/group/[groupId]/page": "app/group/[groupId]/page.js",
+  "/video/[groupId]/page": "app/video/[groupId]/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js"
+}
